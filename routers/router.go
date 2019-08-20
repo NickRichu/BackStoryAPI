@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"BackStory/controllers"
+	"BackStoryAPI/controllers"
 
 	"github.com/astaxie/beego"
 )

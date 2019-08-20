@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"BackStory/models"
+	"BackStoryAPI/models"
 
 	"github.com/astaxie/beego"
 )

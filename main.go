@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "BackStory/routers"
+	_ "BackStoryAPI/routers"
 
 	"github.com/astaxie/beego"
 )
